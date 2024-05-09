@@ -1,10 +1,3 @@
-## Features
-
-PostgreSQL: 16.0
-Node: v18.14.1
-Nest: 10.3.2
-Redis: 5.0.14.1
-
 # user
 
 1. cd user
